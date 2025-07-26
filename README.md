@@ -80,10 +80,10 @@ Programming Language:
 C++
 
 Notes:
-- The solution is 100% original and manually implemented.
+
 - All edge cases (out-of-stock, expired items, empty cart, low balance) are handled.
 - Adheres strictly to the problem specification.
 
 Author:
-Developed by [Your Name]
+Developed by Rewan Hagag
 For the Full Stack Development Internship Challenge
