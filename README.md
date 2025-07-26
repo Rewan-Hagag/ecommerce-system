@@ -41,12 +41,12 @@ cart.add(scratchCard, 1);
 checkout(customer, cart);
 
 Console Output:
-** Shipment notice **
+Shipment notice 
 Cheese 200g
 Cheese 200g
 Biscuits 700g
 Total package weight 1.1kg
-** Checkout receipt **
+Checkout receipt 
 2x Cheese 200
 1x Biscuits 150
 1x Mobile Scratch Card 50
